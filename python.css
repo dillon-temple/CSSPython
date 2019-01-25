@@ -1,0 +1,232 @@
+input{
+    width:150px;
+    height:25px;
+    text-align:center;
+    margin:14px 5px 10px 30px;
+}
+
+button{
+    height:32px;
+    weight:36px;
+    background-color:#155274;
+    color:white;
+    border:2px solid silver;
+    border-radius:7px;
+    margin:0px 0px 0px 0px;
+}
+
+.dook{
+    color:#9E8A58;
+    text-decoration:underline;
+}
+.blue{
+    color:#7AB1D6;
+}
+
+.listitems1{
+    margin:0px 0px 10px 0px;
+}
+.listitems2{
+    margin:0px 0px 5px 0px;
+    color:#2799CB;
+}
+
+.fu{
+    color:black;
+}
+
+
+
+.header{
+    display:inline-block;
+    height:100px;
+    width:930px;
+    background-color:#145274;
+    padding:10px;
+}
+
+    .logo{
+        height:75px;
+        width:290px;
+        padding:10px;
+    }
+
+    .searchbox{
+        vertical-align: top;
+        height:50px;
+        width:195px;
+        display:inline-block;
+        margin-left:420px;
+     }
+        .textsize{
+            color:white;
+            font-size:11pt;
+        }
+        .search{
+            display:inline-block;
+            background-color:#444444;
+            border-radius:10px;
+            height:60px;
+            width:270px;
+            margin:0px 0px 0px -85px;
+        }
+
+.menu{
+    height:30px;
+    width:950px;
+    background-color:#145274;
+}
+    .menubar{
+        position:absolute;
+        border:1px solid black;
+        border-radius: 5px;
+        height:30px;
+        width:800px;
+        margin:-10px 0px 0px 90px;
+        background-color:#287BAA;
+        padding:5px 10px 10px 10px;
+    }
+        .m{
+            color:white;
+            font-size:18pt;
+            padding:15px;
+        }
+        .m1{
+            margin-left:20px;
+            color:white;
+            font-size:18pt;
+            padding:15px;
+        }
+
+.content1{
+    height:280px;
+    width:930px;
+    background-color:#005472;
+    padding:10px;
+    text-align:center;
+}
+
+    .mainlist{
+        vertical-align:top;
+        list-style-position:inside;
+        color:white;
+        font-size:12pt;
+        height:250px;
+        width:270px;
+        background-color:#145274;
+        display:inline-block;
+        padding:10px;
+        margin-top:10px;
+
+    }
+       .list1 {
+            margin:10px 0px 0px 30px;
+            text-decoration:underline;
+        }
+    .description{
+        height:250px;
+        width:550px;
+        background-color:#145274;
+        display:inline-block;
+        padding:10px;
+    }
+        .history{
+            margin-top:-1px;
+            font-size:10pt;
+            color:white;
+            
+        }
+        .list2{
+            padding:0px;
+            font-size:12.5pt;
+            list-style-type:none;
+            color:#CAB156;
+        }
+        .zen{
+            color:white;
+        }
+
+.content2{
+    height:195px;
+    width:950px;
+    background-color:white;
+    padding-top:10px;
+}
+
+    .info1{
+        border-top:5px #63A7D1 solid;
+        list-style-position:inside;
+        font-size:10pt;
+        text-align: center;
+        vertical-align: top;
+        height:170px;
+        width:320px;
+        background-color:#FFFFFF;
+        display:inline-block;
+        padding:5px 60px 10px 30px;
+        margin-left:120px;
+    }
+        .info1header{
+            font-size:12.5pt;
+            padding:0px;
+            margin:0px
+        }
+        .info1content{
+            padding:0px;
+            margin:10px 0px 10px 0px;
+        }
+        .info1list{
+            padding:0px;
+            margin:0px
+        }
+    .info2{
+        border-top:5px #63A7D1 solid;
+        list-style-position:inside;
+        font-size:10pt;
+        text-align: center;
+        vertical-align: top;
+        height:170px;
+        width:280px;
+        background-color:#FFFFFF;
+        display:inline-block;
+        padding:5px 70px 10px 15px;
+        margin-left:20px;
+    }
+        .info2header{
+            font-size:12.5pt;
+            padding:0px;
+            margin:0px
+        }
+        .info2content{
+            padding:0px;
+            margin:8px 0px 8px 0px;
+        }
+        .info2list{
+            padding:0px;
+            margin:0px
+        }
+
+.footer{;
+    vertical-align: top;
+    font-size:10pt;
+    text-align: center;
+    height:50px;
+    width:930px;
+    background-color:#165B81;
+    padding:40px 0px 0px 0px;
+}
+    .f{
+        font-size:12pt;
+        margin:0px 20px 0px 0px;
+        color:#6FACD4;
+        display:inline-block;
+    }
+    .copyright{
+        font-size:7pt;
+        color:#6FACD4;
+        margin:18px 0px 0px 0px;
+    }
+
+
+
+
